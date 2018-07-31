@@ -1,0 +1,64 @@
+C:\Users\Kubik\Desktop\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\bin\Debug\FirmaTransportowa.exe.config
+C:\Users\Kubik\Desktop\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\bin\Debug\FirmaTransportowa.exe
+C:\Users\Kubik\Desktop\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\bin\Debug\FirmaTransportowa.pdb
+C:\Users\Kubik\Desktop\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.csprojResolveAssemblyReference.cache
+C:\Users\Kubik\Desktop\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.Admin.resources
+C:\Users\Kubik\Desktop\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.Klient.resources
+C:\Users\Kubik\Desktop\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.Logowanie.resources
+C:\Users\Kubik\Desktop\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.NoweZamowienie.resources
+C:\Users\Kubik\Desktop\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.Properties.Resources.resources
+C:\Users\Kubik\Desktop\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.Rejestracja.resources
+C:\Users\Kubik\Desktop\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.csproj.GenerateResource.Cache
+C:\Users\Kubik\Desktop\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.csproj.CoreCompileInputs.cache
+C:\Users\Kubik\Desktop\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.exe
+C:\Users\Kubik\Desktop\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.pdb
+C:\Users\Kubik\Desktop\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.KontoKlienta.resources
+C:\Users\Kubik\Desktop\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.Podsumowanie.resources
+C:\Users\Kubik\Desktop\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.ZamowieniaKlienta.resources
+C:\Users\Kubik\Desktop\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.PotwierdzenieHasla.resources
+C:\Users\Kubik\Desktop\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.DodajAdmin.resources
+C:\Users\Kubik\Desktop\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.DodajPojazd.resources
+C:\Users\Kubik\Desktop\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.DodajProdukty.resources
+C:\Users\Kubik\Desktop\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.DodajPunktDystrybucji.resources
+C:\Users\Kubik\Desktop\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.ModyfikujDaneLogowania.resources
+C:\Users\Kubik\Desktop\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.PodajDate.resources
+C:\Users\Kubik\Desktop\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.ModyfikujKatalogProduktow.resources
+C:\Users\Kubik\Desktop\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.ModyfikujPojazd.resources
+C:\Users\Kubik\Desktop\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.ModyfikujPunktDystrybucji.resources
+C:\Users\Kubik\Desktop\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.SzukajLoginu.resources
+C:\Users\Kubik\Desktop\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.DodajKierowcaa.resources
+C:\Users\Kubik\Desktop\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.ModyfikujKierowcaa.resources
+C:\Users\Kubik\Desktop\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.PodgladZamowienia.resources
+C:\Users\Kubik\Desktop\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.PodgladZamowieniaAdmin.resources
+C:\Users\Kubik\Desktop\Kubik\studia\Semestr V\Bazy_Danych\projekt\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\bin\Debug\FirmaTransportowa.exe.config
+C:\Users\Kubik\Desktop\Kubik\studia\Semestr V\Bazy_Danych\projekt\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\bin\Debug\FirmaTransportowa.exe
+C:\Users\Kubik\Desktop\Kubik\studia\Semestr V\Bazy_Danych\projekt\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\bin\Debug\FirmaTransportowa.pdb
+C:\Users\Kubik\Desktop\Kubik\studia\Semestr V\Bazy_Danych\projekt\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.csprojResolveAssemblyReference.cache
+C:\Users\Kubik\Desktop\Kubik\studia\Semestr V\Bazy_Danych\projekt\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.Admin.resources
+C:\Users\Kubik\Desktop\Kubik\studia\Semestr V\Bazy_Danych\projekt\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.DodajAdmin.resources
+C:\Users\Kubik\Desktop\Kubik\studia\Semestr V\Bazy_Danych\projekt\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.DodajPojazd.resources
+C:\Users\Kubik\Desktop\Kubik\studia\Semestr V\Bazy_Danych\projekt\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.DodajKierowcaa.resources
+C:\Users\Kubik\Desktop\Kubik\studia\Semestr V\Bazy_Danych\projekt\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.DodajProdukty.resources
+C:\Users\Kubik\Desktop\Kubik\studia\Semestr V\Bazy_Danych\projekt\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.DodajPunktDystrybucji.resources
+C:\Users\Kubik\Desktop\Kubik\studia\Semestr V\Bazy_Danych\projekt\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.Klient.resources
+C:\Users\Kubik\Desktop\Kubik\studia\Semestr V\Bazy_Danych\projekt\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.KontoKlienta.resources
+C:\Users\Kubik\Desktop\Kubik\studia\Semestr V\Bazy_Danych\projekt\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.Logowanie.resources
+C:\Users\Kubik\Desktop\Kubik\studia\Semestr V\Bazy_Danych\projekt\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.ModyfikujDaneLogowania.resources
+C:\Users\Kubik\Desktop\Kubik\studia\Semestr V\Bazy_Danych\projekt\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.ModyfikujKatalogProduktow.resources
+C:\Users\Kubik\Desktop\Kubik\studia\Semestr V\Bazy_Danych\projekt\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.ModyfikujPojazd.resources
+C:\Users\Kubik\Desktop\Kubik\studia\Semestr V\Bazy_Danych\projekt\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.ModyfikujKierowcaa.resources
+C:\Users\Kubik\Desktop\Kubik\studia\Semestr V\Bazy_Danych\projekt\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.ModyfikujPunktDystrybucji.resources
+C:\Users\Kubik\Desktop\Kubik\studia\Semestr V\Bazy_Danych\projekt\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.NoweZamowienie.resources
+C:\Users\Kubik\Desktop\Kubik\studia\Semestr V\Bazy_Danych\projekt\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.PodajDate.resources
+C:\Users\Kubik\Desktop\Kubik\studia\Semestr V\Bazy_Danych\projekt\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.PodgladZamowienia.resources
+C:\Users\Kubik\Desktop\Kubik\studia\Semestr V\Bazy_Danych\projekt\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.PodgladZamowieniaAdmin.resources
+C:\Users\Kubik\Desktop\Kubik\studia\Semestr V\Bazy_Danych\projekt\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.Podsumowanie.resources
+C:\Users\Kubik\Desktop\Kubik\studia\Semestr V\Bazy_Danych\projekt\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.PotwierdzenieHasla.resources
+C:\Users\Kubik\Desktop\Kubik\studia\Semestr V\Bazy_Danych\projekt\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.Properties.Resources.resources
+C:\Users\Kubik\Desktop\Kubik\studia\Semestr V\Bazy_Danych\projekt\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.Rejestracja.resources
+C:\Users\Kubik\Desktop\Kubik\studia\Semestr V\Bazy_Danych\projekt\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.SzukajLoginu.resources
+C:\Users\Kubik\Desktop\Kubik\studia\Semestr V\Bazy_Danych\projekt\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.ZamowieniaKlienta.resources
+C:\Users\Kubik\Desktop\Kubik\studia\Semestr V\Bazy_Danych\projekt\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.csproj.GenerateResource.Cache
+C:\Users\Kubik\Desktop\Kubik\studia\Semestr V\Bazy_Danych\projekt\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.csproj.CoreCompileInputs.cache
+C:\Users\Kubik\Desktop\Kubik\studia\Semestr V\Bazy_Danych\projekt\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.exe
+C:\Users\Kubik\Desktop\Kubik\studia\Semestr V\Bazy_Danych\projekt\BD-git\Firma-Transportowa\FirmaTransportowa\FirmaTransportowa\obj\Debug\FirmaTransportowa.pdb

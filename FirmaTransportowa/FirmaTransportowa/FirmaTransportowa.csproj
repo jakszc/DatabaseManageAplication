@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{72EBE4E2-03AD-477E-B751-95085DDB9C21}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>FirmaTransportowa</RootNamespace>
+    <AssemblyName>FirmaTransportowa</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin.Designer.cs">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DodajAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DodajAdmin.Designer.cs">
+      <DependentUpon>DodajAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DodajPojazd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DodajPojazd.Designer.cs">
+      <DependentUpon>DodajPojazd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DodajPracownika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DodajPracownika.Designer.cs">
+      <DependentUpon>DodajPracownika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DodajProdukty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DodajProdukty.Designer.cs">
+      <DependentUpon>DodajProdukty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DodajPunktDystrybucji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DodajPunktDystrybucji.Designer.cs">
+      <DependentUpon>DodajPunktDystrybucji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Klient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Klient.Designer.cs">
+      <DependentUpon>Klient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontener.cs" />
+    <Compile Include="KontoKlienta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KontoKlienta.Designer.cs">
+      <DependentUpon>KontoKlienta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KontrolaDanych.cs" />
+    <Compile Include="Logowanie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Logowanie.Designer.cs">
+      <DependentUpon>Logowanie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModyfikujDaneLogowania.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModyfikujDaneLogowania.Designer.cs">
+      <DependentUpon>ModyfikujDaneLogowania.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModyfikujKatalogProduktow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModyfikujKatalogProduktow.Designer.cs">
+      <DependentUpon>ModyfikujKatalogProduktow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModyfikujPojazd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModyfikujPojazd.Designer.cs">
+      <DependentUpon>ModyfikujPojazd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModyfikujPracownika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModyfikujPracownika.Designer.cs">
+      <DependentUpon>ModyfikujPracownika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModyfikujPunktDystrybucji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModyfikujPunktDystrybucji.Designer.cs">
+      <DependentUpon>ModyfikujPunktDystrybucji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NoweZamowienie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NoweZamowienie.Designer.cs">
+      <DependentUpon>NoweZamowienie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PodajDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PodajDate.Designer.cs">
+      <DependentUpon>PodajDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PodgladZamowienia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PodgladZamowienia.Designer.cs">
+      <DependentUpon>PodgladZamowienia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Podsumowanie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Podsumowanie.Designer.cs">
+      <DependentUpon>Podsumowanie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PodgladZamowieniaAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PodgladZamowieniaAdmin.Designer.cs">
+      <DependentUpon>PodgladZamowieniaAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PotwierdzenieHasla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PotwierdzenieHasla.Designer.cs">
+      <DependentUpon>PotwierdzenieHasla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rejestracja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rejestracja.Designer.cs">
+      <DependentUpon>Rejestracja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SzukajLoginu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SzukajLoginu.Designer.cs">
+      <DependentUpon>SzukajLoginu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ZamowieniaKlienta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ZamowieniaKlienta.Designer.cs">
+      <DependentUpon>ZamowieniaKlienta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Zamowienie_adresDostawy.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Zamowienie_adresDostawy.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Zamowienie_listaProduktow.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Zamowienie_listaProduktow.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Zamowienie_listaZamowien.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Zamowienie_listaZamowien.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin.resx">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DodajAdmin.resx">
+      <DependentUpon>DodajAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DodajPojazd.resx">
+      <DependentUpon>DodajPojazd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DodajPracownika.resx">
+      <DependentUpon>DodajPracownika.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DodajProdukty.resx">
+      <DependentUpon>DodajProdukty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DodajPunktDystrybucji.resx">
+      <DependentUpon>DodajPunktDystrybucji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Klient.resx">
+      <DependentUpon>Klient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KontoKlienta.resx">
+      <DependentUpon>KontoKlienta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Logowanie.resx">
+      <DependentUpon>Logowanie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModyfikujDaneLogowania.resx">
+      <DependentUpon>ModyfikujDaneLogowania.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModyfikujKatalogProduktow.resx">
+      <DependentUpon>ModyfikujKatalogProduktow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModyfikujPojazd.resx">
+      <DependentUpon>ModyfikujPojazd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModyfikujPracownika.resx">
+      <DependentUpon>ModyfikujPracownika.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModyfikujPunktDystrybucji.resx">
+      <DependentUpon>ModyfikujPunktDystrybucji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NoweZamowienie.resx">
+      <DependentUpon>NoweZamowienie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PodajDate.resx">
+      <DependentUpon>PodajDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PodgladZamowienia.resx">
+      <DependentUpon>PodgladZamowienia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PodgladZamowieniaAdmin.resx">
+      <DependentUpon>PodgladZamowieniaAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Podsumowanie.resx">
+      <DependentUpon>Podsumowanie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PotwierdzenieHasla.resx">
+      <DependentUpon>PotwierdzenieHasla.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Rejestracja.resx">
+      <DependentUpon>Rejestracja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SzukajLoginu.resx">
+      <DependentUpon>SzukajLoginu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ZamowieniaKlienta.resx">
+      <DependentUpon>ZamowieniaKlienta.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Zamowienie_adresDostawy.xsc">
+      <DependentUpon>Zamowienie_adresDostawy.xsd</DependentUpon>
+    </None>
+    <None Include="Zamowienie_adresDostawy.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Zamowienie_adresDostawy.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Zamowienie_adresDostawy.xss">
+      <DependentUpon>Zamowienie_adresDostawy.xsd</DependentUpon>
+    </None>
+    <None Include="Zamowienie_listaProduktow.xsc">
+      <DependentUpon>Zamowienie_listaProduktow.xsd</DependentUpon>
+    </None>
+    <None Include="Zamowienie_listaProduktow.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Zamowienie_listaProduktow.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Zamowienie_listaProduktow.xss">
+      <DependentUpon>Zamowienie_listaProduktow.xsd</DependentUpon>
+    </None>
+    <None Include="Zamowienie_listaZamowien.xsc">
+      <DependentUpon>Zamowienie_listaZamowien.xsd</DependentUpon>
+    </None>
+    <None Include="Zamowienie_listaZamowien.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Zamowienie_listaZamowien.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Zamowienie_listaZamowien.xss">
+      <DependentUpon>Zamowienie_listaZamowien.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\account_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\leftArrow.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
